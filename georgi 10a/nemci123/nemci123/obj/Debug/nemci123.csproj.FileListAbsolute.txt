@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\bin\Debug\nemci123.exe.config
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\bin\Debug\nemci123.exe
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\bin\Debug\nemci123.pdb
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\obj\Debug\nemci123.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\obj\Debug\nemci123.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\obj\Debug\nemci123.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\obj\Debug\nemci123.exe
+C:\Users\STUDENTS-1409-12\Desktop\georgi 10a\nemci123\nemci123\obj\Debug\nemci123.pdb

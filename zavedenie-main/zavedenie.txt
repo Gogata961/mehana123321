@@ -1,0 +1,2 @@
+string text3 = textBox3.Text;
+listBox1.Items.Add(text1 + " " + text2 + " - " + text3);
